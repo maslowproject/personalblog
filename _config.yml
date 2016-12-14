@@ -31,7 +31,7 @@ links:
   email: josh.amaku@gmail.com
   github: maslowproject
   
-gems: [jekyll-paginate, jemoji]
+gems: [jekyll-paginate, jemoji, github-pages]
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 #about_image: placeholder.jpg
 ##comment this if you want full width posts with no sidebar
